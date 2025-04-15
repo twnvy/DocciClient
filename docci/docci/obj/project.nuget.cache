@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGVjq6qkEz4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eric\\Downloads\\docci\\docci\\docci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\htmlagilitypack\\1.12.0\\htmlagilitypack.1.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
