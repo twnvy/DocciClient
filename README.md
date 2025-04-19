@@ -1,5 +1,6 @@
 # DocciClient / Docci Explorer
 A barebones web browser for reading documents and text privately.
+
 ![image](https://github.com/user-attachments/assets/1eca96c3-9b18-4b93-92b3-fc739f2aa72f)
 
 ## How to compile DocciClient
