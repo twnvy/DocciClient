@@ -1,6 +1,6 @@
-# DocciClient
-A barebones web browser that shows you don't need to be a reskin of another browser to have something functional.
-![image](https://github.com/user-attachments/assets/463b10ce-3114-4676-8823-b9556eaaaa51)
+# DocciClient / Docci Explorer
+A barebones web browser for reading documents and text privately.
+![image](https://github.com/user-attachments/assets/1eca96c3-9b18-4b93-92b3-fc739f2aa72f)
 
 ## How to compile DocciClient
 An official Linux port is not out yet. However, you can compile it on Windows easily.
