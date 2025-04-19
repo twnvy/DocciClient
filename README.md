@@ -11,6 +11,7 @@ Windows 10+ (recommended but not required)
 
 **Neccessary Files:**
 Source code from the latest release or directly from the repository.
+NuGet packages listed in the NuGet package list installed.
 
 **How to compile:**
 Download the source and open the .sln file in Visual Studio. Press RUN to build it and then you can close Visual Studio after the window pops up. Then, go into the folder and go to this path inside the folder: docci/bin/Debug
