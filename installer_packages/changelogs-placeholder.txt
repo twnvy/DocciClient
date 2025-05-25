@@ -1,0 +1,1 @@
+Welcome to DocciClient! DocciClient is a upcoming browser engine. Basically I'm just tired of everything being a Chromium or Firefox clone and the Internet being extremley privacy-invasive.
